@@ -74,7 +74,7 @@ function checkStrength(val) {
 }
 
 // ===== API BASE =====
-const API = 'http://127.0.0.1:5000/api';
+const API = 'https://qatar-foundation-admin.onrender.com/api';
 
 // ===== SHOW DASHBOARD =====
 function showDashboard(adminData) {
